@@ -15,7 +15,7 @@ Universidad Complutense de Madrid - Facultad de Informática
 
 **Practica 5**: 10/10
 
-**Practica 6**:
+**Practica 6**: 10/10
 
 **Practica 7**:
 
