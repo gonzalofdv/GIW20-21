@@ -49,3 +49,12 @@ En el ejercicio 3 solo se tiene en cuenta los casos de separados al final de las
 - La cabecera debe indicar la asignatura, la práctica, el grupo y los autores
 - El modulo Python NO DEBE INVOCAR AUTOMÁTICAMENTE A inserta(), únicamente definir las clases y los métodos
 - En clean() de Pedido usáis una lista productos para comprobar repetidos => debería ser un conjunto
+
+**Práctica 9**
+
+1. Autenticación básica mediante contraseñas: 4pt
+ * Usa HASH seguro
+ * Usa sal
+ * Usa ralentizado (¡incluso demasiado lento!)
+2. Autenticación con TOTP: 6pt
+ * Incrusta QR en HTML, muy buena elección
