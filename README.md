@@ -25,7 +25,7 @@ Universidad Complutense de Madrid - Facultad de Informática
 
 **Practica 10**: 10/10
 
-**Practica 11**:
+**Practica 11**: 10/10
 
 **Practica 12**:
 
@@ -64,3 +64,10 @@ En el ejercicio 3 solo se tiene en cuenta los casos de separados al final de las
 - Utiliza token antiCSRF, bien hecho
 - Autenticación correcta: sí
 - Utiliza el documento de descubrimiento: sí
+
+**Práctica 11**
+
+Unos informes muy cuidados y con muchos detalles.
+- SQL injection: OK
+- XSS reflejado: OK
+- XSS persistente: OK
