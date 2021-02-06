@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}
+Inicio
+{% endblock %}
+{% block content %}
+<h2>Preguntas</h2>
+<ul>
+{% for pregunta in preguntas %}
+    <li><a href="{% url 'preguntas:pregunta' pregunta.N %}"> {{pregunta.titulo}}</a> -- {{pregunta.autor.username}} ({{pregunta.fecha}})<br/>
+    {{ pregunta.num_respuestas }} respuestas.
+    </li>
+{% endfor %}
+</ul>
+{% if pregunta_form %}
+<h2>Añadir nueva pregunta</h2>
+	<form action="{% url 'preguntas:index' %}" method="post">
+	<table>
+	{{ pregunta_form }}
+	</table>
+	{% csrf_token %}
+	<br/>
+	<button type="submit">Enviar pregunta</button>
+	</form>
+{% endif %}
+{% endblock %}

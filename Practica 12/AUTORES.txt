@@ -1,0 +1,17 @@
+Gestión de la Información Web
+Práctica 12
+Grupo 02
+
+Gonzalo Figueroa del Val, Fernando González Zamorano, Jorge Borja García y
+Jin Wang Xu, declaramos que esta solucion
+es fruto exclusivamente de nuestro trabajo personal. No hemos sido
+ayudados por ninguna otra persona ni hemos obtenido la solucion de
+fuentes externas, y tampoco hemos compartido nuestra solucion con
+nadie. Declaramos ademas que no hemos realizado de manera deshonesta
+ninguna otra actividad que pueda mejorar nuestros resultados
+ni perjudicar los resultados de los demas.
+
+Los usuarios y contraseñas que existen en nuestra BD son los siguientes:
+
+gonza - 1234
+profesor - practicagiw
