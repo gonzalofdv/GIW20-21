@@ -23,9 +23,9 @@ Universidad Complutense de Madrid - Facultad de Informática
 
 **Practica 9**: 10/10
 
-**Practica 10**:
+**Practica 10**: 10/10
 
-**Practica 11**:
+**Practica 11**: 10/10
 
 **Practica 12**:
 
@@ -58,3 +58,16 @@ En el ejercicio 3 solo se tiene en cuenta los casos de separados al final de las
  * Usa ralentizado (¡incluso demasiado lento!)
 2. Autenticación con TOTP: 6pt
  * Incrusta QR en HTML, muy buena elección
+
+**Práctica 10**
+
+- Utiliza token antiCSRF, bien hecho
+- Autenticación correcta: sí
+- Utiliza el documento de descubrimiento: sí
+
+**Práctica 11**
+
+Unos informes muy cuidados y con muchos detalles.
+- SQL injection: OK
+- XSS reflejado: OK
+- XSS persistente: OK
