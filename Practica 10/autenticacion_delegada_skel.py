@@ -24,8 +24,8 @@ app = Flask(__name__)
 # Credenciales. 
 # https://developers.google.com/identity/protocols/oauth2/openid-connect#appsetup
 # Copiar los valores adecuados.
-CLIENT_ID = "688809926516-mvlfpanbc5ueb1mk2a549ub2mdq341gc.apps.googleusercontent.com"
-CLIENT_SECRET = "PqbsVHemW6k78qiqbWfqv9eb"
+CLIENT_ID = #pega aqui tu id de cliente
+CLIENT_SECRET = #pega aqui tu secreto de cliente
 
 REDIRECT_URI = 'http://localhost:5000/token'
 
