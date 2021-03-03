@@ -3,6 +3,8 @@ Prácticas de Gestión de la Información Web
 
 Universidad Complutense de Madrid - Facultad de Informática
 
+## Nota final de la asignatura -- 9'7
+
 ## Notas de cada práctica
 
 **Practica 1**: 9'5/10
@@ -27,7 +29,7 @@ Universidad Complutense de Madrid - Facultad de Informática
 
 **Practica 11**: 10/10
 
-**Practica 12**:
+**Practica 12**: 10/10
 
 ## Retroalimentación de las correcciones
 
@@ -71,3 +73,19 @@ Unos informes muy cuidados y con muchos detalles.
 - SQL injection: OK
 - XSS reflejado: OK
 - XSS persistente: OK
+
+	
+**Práctica 12**
+
+- (0.75pt) Restringe el acceso a usuarios autenticados usando decoradores: SI
+- (1pt) Inicio y cierre de sesión correcto: SI
+- (1pt) Modelos correctos para pregunta y respuesta: SI
+- (0.75pt) Los modelos escapan automáticamente el texto para quitar HTML: SI
+- (1pt) Consultas adecuadas usando el ORM, incluyendo orden y detección de elementos no existentes: SI
+- (1pt) Cálculo adecuado del número de respuestas: SI
+- (1pt) Se generan las URL a partir del nombre: SI
+- Formularios para pregunta, respuesta e inicio de sesión
+  - (0.75pt) Generación de HTML: SI
+  - (1pt) Validación de entradas del usuario: SI
+- (1pt) Uso de plantillas jerárquicas para reutilizar contenido: SI
+- (0.75pt) La interfaz de administrador incluye todos los elementos: SI
